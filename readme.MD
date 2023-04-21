@@ -11,7 +11,7 @@ This project is a web application for Delani studio that shows details about the
 
 ## Live Page 
 
-
+https://immaq.github.io/Delani_Studio/
 
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
